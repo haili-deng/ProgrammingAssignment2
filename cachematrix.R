@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix take a matrix variable, cacheSovle caches and returns its inverse matrix.
 
 ## Function return list of four sub function(set,get,setInverse,getInverse)
 ## as similar to makeCacheVector set input matrix, get input matrix
